@@ -213,3 +213,11 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/tigersTest.iml
+.idea/scopes/scope_settings.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/encodings.xml
+.idea/.name
